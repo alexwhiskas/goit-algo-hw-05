@@ -1,4 +1,4 @@
-import chardet
+# import chardet
 
 # # detect file encoding
 # with open("text_1.txt", "rb") as f:
